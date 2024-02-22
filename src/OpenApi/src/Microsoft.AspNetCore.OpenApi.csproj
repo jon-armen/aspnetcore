@@ -12,6 +12,9 @@
     <Reference Include="Microsoft.AspNetCore.Http.Abstractions" />
     <Reference Include="Microsoft.AspNetCore.Routing" />
     <Reference Include="Microsoft.AspNetCore.Mvc.Core" />
+    <Reference Include="Microsoft.AspNetCore.Mvc.ApiExplorer" />
+    <Reference Include="JsonSchema.Net.Generation" />
+    <Reference Include="JsonSchema.Net.OpenApi" />
   </ItemGroup>
 
   <ItemGroup>
